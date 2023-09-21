@@ -1,8 +1,7 @@
 
 # Reto_4
-- En este repositorio podrás encontrar los siguientes programas escritos en python.
-Entrando al siguiente link encontrarás un notebook para interactuar con el codigo.
-[Notebook Reto 4 - Google Colab](https://colab.research.google.com/drive/1HnXGPyUOIt2aOLMIXvkA7Hv-R3_ukxxr?usp=sharing)
+## En este repositorio podrás encontrar los siguientes programas escritos en python.
+
 
 1. Determina si un número corresponde al codigo ASCII de una vocal minúcula
 2. Determina sí el codigo ASCII del primer carácter de una cadena es par o no.
@@ -10,6 +9,9 @@ Entrando al siguiente link encontrarás un notebook para interactuar con el codi
 4. Determina si un número es positivo, negativo ó igual a cero.
 5. Determina sí un punto esta dentro de una circuferencia.
 6. Determina sí se puede formar un triángulo dadas tres longitudes positivas.
+
+Entrando al siguiente link encontrarás un notebook para interactuar con el codigo.
+[Notebook Reto 4 - Google Colab](https://colab.research.google.com/drive/1HnXGPyUOIt2aOLMIXvkA7Hv-R3_ukxxr?usp=sharing)
 
 ## 1). Determina si un número corresponde al codigo ASCII de una vocal minúcula
 ```python
@@ -138,6 +140,9 @@ if t == True:
 else:
     print("No se puede formar un triangulo con las medidas dadas")
 ```
+
+Entrando al siguiente link encontrarás un notebook para interactuar con el codigo.
+[Notebook Reto 4 - Google Colab](https://colab.research.google.com/drive/1HnXGPyUOIt2aOLMIXvkA7Hv-R3_ukxxr?usp=sharing)
 
 GRACIAS POR SU VISITA
 
